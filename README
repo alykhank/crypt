@@ -1,2 +1,2 @@
-A phrase encryption/decryption program.
+A phrase encryption/decryption program using the Vigenere cipher method.
 Program prompts user for plaintext and key, then outputs ciphertext.
